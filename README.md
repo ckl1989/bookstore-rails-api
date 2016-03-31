@@ -1,7 +1,6 @@
 ## README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+http://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
 
 Things you may want to cover:
 
