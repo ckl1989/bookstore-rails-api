@@ -1,23 +1,16 @@
-## README
+== README
 
+Bookstore - Building a Modern Bridge Between Ember and Rails 5 with JSON API
+Bookstore Rails Backend 
 http://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
 
-Things you may want to cover:
+This is the backend implementation of a bookstore app using Rails 5 API.
+Models have been defined with relationships, subclassing, and polymorphism to align with UI better.
 
-* Ruby version
+This project is backend only and is complemented with an ember front end found at:
+https://github.com/ckl1989/bookstore-ember
 
-* System dependencies
 
-* Configuration
+This project is intended to exemplify the design of a rails backend supporting a ember front end through JSON API.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Backend: Ember 5.0.0beta3
