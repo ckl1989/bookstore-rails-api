@@ -13,4 +13,4 @@ https://github.com/ckl1989/bookstore-ember
 
 This project is intended to exemplify the design of a rails backend supporting a ember front end through JSON API.
 
-Backend: Ember 5.0.0beta3
+Backend: Rails 5.0.0beta3
